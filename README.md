@@ -1,23 +1,37 @@
-# GAME SERVER
+# Game Server Management Lab
 
-## Qualifications
+## 📝 Project Overview
+This project documents my experience managing and customizing a multiplayer game server environment. It served as a hands-on lab to apply core skills in system administration, scripting, Java programming, security, and network tools.
 
-During my professional experience I have obtained great qualifications that can be applied in the area of cybersecurity, among them are: communication, collaboration, problem solving, analysis and attention to detail. 
-In addition, I had the opportunity to have my own server in a game, in which I worked with the Java programming language. 
+I independently set up and maintained the server, implemented plugin modifications in Java, and applied performance and security optimizations to simulate a production environment.
 
+---
 
-### Skills Learned
+## 🧠 Key Skills Learned
+- Server setup, resource allocation, and uptime maintenance  
+- Java plugin scripting for task automation  
+- Firewall and whitelist configuration to secure player access  
+- Server moderation (bans, kicks, fair-play enforcement)  
+- RAM allocation, latency control, and performance tuning  
+- Data backup and restoration strategies  
+- Server log analysis and crash mitigation
 
-- Setting up and maintaining the server, managing hardware resources, and ensuring uptime.
-- Configuring firewalls, managing whitelists, and securing player data.
-- Writing/modifying plugins in Java, automating server tasks, and scripting maintenance routines.
-- Moderating players, handling bans/kicks, and maintaining fair play.
-- Allocating RAM, optimizing plugins, and managing latency issues.
-- Creating backups, restoring data, and mitigating crashes.
-- Proficiency in analyzing and interpreting server logs.
+---
 
-### Tools Used
+## 🛠 Tools & Technologies
+- **Java**: plugin development and scripting  
+- **Notepad++**: log analysis and config editing  
+- **Hamachi**: network hosting and remote access  
+- **Custom game environment**: plugin testing and debugging
 
-- Log Analysis Notepad++.
-- Network tool Hamachi, for hosting, securing remote acess, bypass network restrictions.
-- Programming Language Java for plugins, customization.
+---
+
+## 📎 Context
+This was an individual project developed independently outside of coursework to strengthen my knowledge in IT operations and cybersecurity principles through a practical, game-based environment.
+
+---
+
+**Author**: Vinicius Prado  
+📍 Dublin, Ireland  
+🔗 [LinkedIn](https://www.linkedin.com/in/viniciusalprado)  
+📧 [vinicius99ie@gmail.com](mailto:vinicius99ie@gmail.com)
